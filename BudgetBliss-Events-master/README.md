@@ -17,7 +17,7 @@ the app also features vendor bidding, personalized recommendations, and real-tim
 You can download and install the **latest version** of the app by following these steps:
 
 1. Visit the GitHub Repository
-   👉 
+   👉 https://github.com/Aimen-Sana/BudgetBliss-Events/tree/main/BudgetBliss-Events-master
 
 2. Find the APK file (e.g., `app-debug.apk.`) in the root folder or in the Releases section.
 
