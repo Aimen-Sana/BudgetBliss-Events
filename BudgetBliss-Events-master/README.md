@@ -17,7 +17,7 @@ the app also features vendor bidding, personalized recommendations, and real-tim
 You can download and install the **latest version** of the app by following these steps:
 
 1. Visit the GitHub Repository
-   👉 [https://github.com/Bilal-Ashiq/BudgetBliss-Events](https://github.com/Bilal-Ashiq/BudgetBliss-Events)
+   👉 
 
 2. Find the APK file (e.g., `app-debug.apk.`) in the root folder or in the Releases section.
 
@@ -32,10 +32,5 @@ You can download and install the **latest version** of the app by following thes
 
 6. Install the app and start exploring BudgetBliss Events!
 
-👨‍💻 Contributors
-
-* Bilal Ashiq – Design & Deployment
-* Ashar – Frontend Development
-* Sabahat – Backend Development & Integration
 
 
